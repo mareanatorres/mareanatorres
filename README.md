@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mareanatorres
 - 👀 I’m interested in technology.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and Front-End Development.
 - 💞️ I’m looking to collaborate on Generative AI.
 
 <!---
